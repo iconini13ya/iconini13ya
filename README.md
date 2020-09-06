@@ -2,22 +2,8 @@
 ## My name is Vladimir Yarancev and im beginner Programmist and Software Engeneer
 ***
 
-### My Languages and Tools
+## My Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript)
-
-
-
-<!--
-**iconini13ya/iconini13ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Angular](https://img.shields.io/badge/-Angular-1e1e1e?style=for-the-badge&logo=angular)
+![NodeJS](https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=nodejs)
+![MySQL](https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql)
